@@ -4,7 +4,7 @@ title:      Attention与Transformer 笔记整理
 subtitle:   Attention与Transformer 笔记整理
 date:       2020-04-14
 author:     xlcbingo1999
-header-img: img/post-bg-ios9-web.jpg
+header-img: post-bg-tensorflow.png
 catalog: true
 tags:
     - NLP
